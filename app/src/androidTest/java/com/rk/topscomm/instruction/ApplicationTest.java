@@ -1,4 +1,4 @@
-package com.github.rubensousa.viewpagercards;
+package com.rk.topscomm.instruction;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

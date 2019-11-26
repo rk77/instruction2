@@ -1,10 +1,9 @@
-package com.github.rubensousa.viewpagercards;
+package com.rk.topscomm.instruction;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 import android.support.v7.widget.CardView;
-import android.view.View;
 import android.view.ViewGroup;
 
 import java.util.ArrayList;

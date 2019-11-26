@@ -1,4 +1,4 @@
-package com.github.rubensousa.viewpagercards;
+package com.rk.topscomm.instruction;
 
 
 import android.support.v7.widget.CardView;

@@ -33,11 +33,12 @@
                 android:layout_marginTop="24dp"/>
 
             <Button
+                android:id="@+id/button"
                 style="@style/ButtonStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="24dp"
-                android:text="Button" />
+                android:text="开始" />
         </LinearLayout>
 
         <ImageView

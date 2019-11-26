@@ -1,4 +1,4 @@
-package com.github.rubensousa.viewpagercards;
+package com.rk.topscomm.instruction;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

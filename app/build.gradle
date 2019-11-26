@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.1"
 
     defaultConfig {
-        applicationId "com.github.rubensousa.viewpagercards"
+        applicationId "com.rk.topscomm.instruction"
         minSdkVersion 14
         targetSdkVersion 26
         versionCode 1
