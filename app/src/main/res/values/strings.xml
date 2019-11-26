@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">用户指导手册</string>
+    <string name="app_name">指导手册</string>
 
-    <string name="title_1">智能抄维APP</string>
-    <string name="title_2">补抄APP</string>
+    <string name="title_1">智能抄维</string>
+    <string name="title_2">补抄应用</string>
     <string name="descriptor">智能掌机2.0\n指导手册</string>
 
 
