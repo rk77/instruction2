@@ -26,6 +26,7 @@ public class SecondActivity extends BaseActivity {
     private TextView mPageNumTextView;
 
     private static final int[] IMAGES = new int[]{
+            R.drawable.post_0,
             R.drawable.post_1,
             R.drawable.post_2,
             R.drawable.post_3,
