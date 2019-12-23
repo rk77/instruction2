@@ -3,9 +3,11 @@
 
     <string name="title_1">智能抄维</string>
     <string name="title_2">补抄应用</string>
+    <string name="title_3">数据下载/上传</string>
     <string name="descriptor">智能掌机2.0\n指导手册</string>
 
 
     <string name="text_1">支持红外、485、载波抄读电能表数据；红外明文拉合闸；路由检测等功能。</string>
     <string name="text_2">支持1997规约和2007规约电能表数据补抄及补抄数据查看等功能。</string>
+    <string name="text_3">补抄数据从营销系统上传至掌机，以及将补抄的数据回传到营销系统。</string>
 </resources>

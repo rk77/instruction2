@@ -46,6 +46,14 @@ public class MainActivity extends BaseActivity {
                 startActivity(i);
             }
         });
+        mCardAdapter.addCardItem(new CardItem(R.string.title_3, R.string.text_3), new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Log.i(TAG, "onClick 2");
+                Intent i = new Intent(MainActivity.this, DataTransferIntroduceActivity.class);
+                startActivity(i);
+            }
+        });
         mFragmentCardAdapter = new CardFragmentPagerAdapter(getSupportFragmentManager(),
                 dpToPixels(2, this));
 
